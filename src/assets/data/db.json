@@ -1,0 +1,48 @@
+{
+    "product": [
+      { 
+          "id": 1,
+         "name": "Shirt",
+         "catagory_id": 5,
+         "description":"description here",
+         "price":300,
+         "is_available":true,
+         "rating":4,
+         "review":150,
+         "vendor_name":"abc shop",
+         "waranty":1
+      },
+      { 
+        "id": 2,
+       "name": "Shirt2",
+       "catagory_id": 1,
+       "description":"description here",
+       "price":400,
+       "is_available":true,
+       "rating":3,
+       "review":140,
+       "vendor_name":"xyz shop",
+       "waranty":1
+      },
+      { 
+        "id": 3,
+       "name": "Shirt3",
+       "catagory_id": 2,
+       "description":"description here",
+       "price":500,
+       "is_available":true,
+       "rating":4,
+       "review":160,
+       "vendor_name":"kbc shop",
+       "waranty":1
+      }
+     
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
